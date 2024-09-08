@@ -36,13 +36,6 @@ END_MESSAGE_MAP()
 CMFCApplication1View::CMFCApplication1View() noexcept
 {
 	// TODO: 在此处添加构造代码
-<<<<<<< HEAD
-	//修改master
-=======
-	//修改branch2
-	//修改branch2---2
-	//修改branch2---3
->>>>>>> branch2
 }
 
 CMFCApplication1View::~CMFCApplication1View()
