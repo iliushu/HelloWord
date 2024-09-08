@@ -38,6 +38,7 @@ CMFCApplication1View::CMFCApplication1View() noexcept
 	// TODO: 在此处添加构造代码
 	//修改branch2
 	//修改branch2---2
+	//修改branch2---3
 }
 
 CMFCApplication1View::~CMFCApplication1View()
