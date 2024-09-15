@@ -37,6 +37,7 @@ CMFCApplication1View::CMFCApplication1View() noexcept
 {
 	// TODO: 在此处添加构造代码
 	//master
+	//master
 }
 
 CMFCApplication1View::~CMFCApplication1View()
