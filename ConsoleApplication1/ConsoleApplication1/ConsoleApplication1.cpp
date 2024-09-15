@@ -9,14 +9,9 @@ int main()
     //master
     //master
 
-<<<<<<< Updated upstream
 
-
-
-    //33333
-=======
     //11111
     //2222
->>>>>>> Stashed changes
+
 }
 
