@@ -34,10 +34,11 @@ END_MESSAGE_MAP()
 // CMFCApplication1View 构造/析构
 
 CMFCApplication1View::CMFCApplication1View() noexcept
-{
+{	//master
+	//master
 	// TODO: 在此处添加构造代码
-	//br1:
-	//br1;
+	//master
+	//master
 }
 
 CMFCApplication1View::~CMFCApplication1View()
